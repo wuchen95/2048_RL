@@ -1,5 +1,5 @@
 # RL2048
-play 2048 game by reinforcement learning.
+a trying for playing 2048 using DQN.
 
 ## Environment
 Python3.6
